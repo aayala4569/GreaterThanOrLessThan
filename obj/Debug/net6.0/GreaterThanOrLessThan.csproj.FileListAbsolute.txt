@@ -1,0 +1,15 @@
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/bin/Debug/net6.0/GreaterThanOrLessThan
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/bin/Debug/net6.0/GreaterThanOrLessThan.deps.json
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/bin/Debug/net6.0/GreaterThanOrLessThan.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/bin/Debug/net6.0/GreaterThanOrLessThan.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/bin/Debug/net6.0/GreaterThanOrLessThan.pdb
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/obj/Debug/net6.0/GreaterThanOrLessThan.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/obj/Debug/net6.0/GreaterThanOrLessThan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/obj/Debug/net6.0/GreaterThanOrLessThan.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/obj/Debug/net6.0/GreaterThanOrLessThan.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/obj/Debug/net6.0/GreaterThanOrLessThan.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/obj/Debug/net6.0/GreaterThanOrLessThan.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/obj/Debug/net6.0/refint/GreaterThanOrLessThan.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/obj/Debug/net6.0/GreaterThanOrLessThan.pdb
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/obj/Debug/net6.0/GreaterThanOrLessThan.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GreaterThanOrLessThan/GreaterThanOrLessThan/obj/Debug/net6.0/ref/GreaterThanOrLessThan.dll
