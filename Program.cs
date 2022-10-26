@@ -10,9 +10,9 @@
 //Created an "if" statement that will show if number 1 is greater than, less than or equal to number 2
 //Created an "if" statement that will show if number 2 is greater than, less than or equal to number 1
 
-// Peer reviewed by:
-//Date:
-//Review:
+// Peer reviewed by: Saul Suazo
+//Date:10/25/22
+//Review: Code works!
 
 int num1;
 int num2;
